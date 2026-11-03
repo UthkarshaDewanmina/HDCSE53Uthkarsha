@@ -1,0 +1,6 @@
+@HDCSE53Uthkarsha_HostAddress = http://localhost:5219
+
+GET {{HDCSE53Uthkarsha_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
